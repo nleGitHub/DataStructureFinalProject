@@ -51,5 +51,14 @@ public class NflPlayers {
 			playerList[top] = player;
 		}
 	}
+	
+	public static void main(String arg[]) {
+		//create players
+		//create a linked list
+		//add players to the list based on rating
+		//put teams into queue
+		//draft begins
+			
+	}
 
 }
