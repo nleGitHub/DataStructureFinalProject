@@ -87,7 +87,7 @@ public class DraftEngine implements ActionListener{
 		
 		}
 		
-		label1.setText("Draft has been created. Now Click the next button so each team can draft their players.");
+		label1.setText("Draft has been created.");
 		label2.setText("Nfl Teams have now drafted their players.");
 		label3.setText("Check the console to see the full team list and players draft.");
 		
